@@ -1,0 +1,8 @@
+- [Homepage](/)
+- **Bandit**
+   - [Level 0](bandit/level-0)
+   - [Level 1](bandit/level-1)
+   - [Level 2](bandit/level-2)
+   - [Level 3](bandit/level-3)
+   - [Level 4](bandit/level-4)
+   - [Level 5](bandit/level-5)
