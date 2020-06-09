@@ -6,3 +6,10 @@
    - [Level 3](bandit/level-3)
    - [Level 4](bandit/level-4)
    - [Level 5](bandit/level-5)
+
+- **Natas**
+   - [Level 0](natas/level-0)
+   - [Level 0.5](natas/level-0.5)
+   - [Level 1](natas/level-1)
+   - [Level 2](natas/level-2)
+   - [Level 3](natas/level-3)
