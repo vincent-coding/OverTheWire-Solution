@@ -56,6 +56,6 @@ Referer: http://natas5.natas.labs.overthewire.org/
 ```
 Once this is done, click on the foward button, the request would be sent to the server.<br>
 If we go back to the web page, we see that the content to be changed.<br>
-<img src="./assets/natas/lvl3-1.png" />
+<img src="./assets/natas/lvl3-1.png" /><br>
 We now have your password for the next level!<br>
 Don't forget to disable the proxy! :wink:
