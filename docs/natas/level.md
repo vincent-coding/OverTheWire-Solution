@@ -1,8 +1,9 @@
 # Natas - Level 0
 
-?> **Level Info:** Username: natas0<br>
-Password: natas0<br>
-URL:      http://natas0.natas.labs.overthewire.org
+?> **Level Info:**<br>
+*Username:* natas0<br>
+*Password:* natas0<br>
+*URL:* http://natas0.natas.labs.overthewire.org
 
 These levels are dedicated to the web page.<br>
 When you click on the link on the first page available [here](http://natas0.natas.labs.overthewire.org), they will ask you to log in.

@@ -1,6 +1,6 @@
 # Natas - Level 2
 
-?> Username: natas3<br>URL: http://natas3.natas.labs.overthewire.org
+?> **Level Info:**<br>*Username:* natas3<br>*URL:* http://natas3.natas.labs.overthewire.org
 
 As for the other levels you have to log in:
 - **Username:** natas3

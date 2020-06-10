@@ -2,7 +2,7 @@
 
 This level is the continuation of level 0, they allow you to go to level 1.
 
-?> **Level Info:** Username: natas1<br>URL: http://natas1.natas.labs.overthewire.org
+?> **Level Info:**<br>*Username:* natas1<br>*URL:* http://natas1.natas.labs.overthewire.org
 
 To launch the session, launch this link [there](http://natas1.natas.labs.overthewire.org), then launch a session.
 - **Username:** natas1
